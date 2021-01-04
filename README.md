@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://cdn.betterttv.net/emote/5f9e0da3710f8302f0c9a739/3x" width="40"/> 
+    <img src="https://cdn.betterttv.net/emote/5f9e0da3710f8302f0c9a739/3x" width="60"/> 
   	Hi there.
   </h1>
    <div>
