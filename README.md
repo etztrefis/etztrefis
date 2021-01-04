@@ -1,4 +1,10 @@
-oh hmmm ![allo](https://cdn.betterttv.net/emote/5d2d8051d4315b684d3cd93e/2x)
----
-![profile](https://github-readme-stats.vercel.app/api?username=etztrefis&show_icons=true&hide_border=true&theme=dark&count_private=true)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etztrefis&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+  <h1>
+    <img src="https://cdn.betterttv.net/emote/5f9e0da3710f8302f0c9a739/3x" width="40"/> 
+  	Hi there.
+  </h1>
+   <div>
+    <img height=165 src="https://github-readme-stats.vercel.app/api?username=etztrefis&count_private=true&theme=cobalt&show_icons=true">
+    <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=etztrefis&theme=cobalt&layout=compact">
+  </div>
+</div>
